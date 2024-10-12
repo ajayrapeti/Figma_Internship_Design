@@ -1,1 +1,1 @@
-# Figma_Internship_Design
+[View Project Design on Figma](https://www.figma.com/proto/eEp9ZjG9cLJ6zgj18Olb7n/Project-design?node-id=2315-2&node-type=canvas&t=mJkFWeOGnDqsUCKZ-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2315%3A2&share=1)
